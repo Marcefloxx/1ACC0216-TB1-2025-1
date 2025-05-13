@@ -4,6 +4,7 @@
 - [🎯 Objetivo del trabajo](#-objetivo-del-trabajo)
 - [👥 Integrantes del grupo](#-integrantes-del-grupo)
 - [📊 Descripción del dataset](#-descripción-del-dataset)
+- [Ver informe completo en PDF](./upc-4-tb1.pdf)
 - [✅ Conclusiones](#-conclusiones)
 - [🔐 Licencia](#-licencia)
 
