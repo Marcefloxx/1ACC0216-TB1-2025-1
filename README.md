@@ -4,7 +4,6 @@
 - [🎯 Objetivo del trabajo](#-objetivo-del-trabajo)
 - [👥 Integrantes del grupo](#-integrantes-del-grupo)
 - [📊 Descripción del dataset](#-descripción-del-dataset)
-- [Ver informe completo en PDF](./upc-4-tb1.pdf)
 - [✅ Conclusiones](#-conclusiones)
 - [🔐 Licencia](#-licencia)
 
@@ -35,6 +34,7 @@ Se incluyen tres versiones:
 - `hotel_bookings_original.csv`: versión limpia con los valores atipicos.
 - `hotel_bookings_limpio.csv`: versión preprocesada con tratamiento de NA y valores atípicos.
 Tenemos dos versiones finales de hotel_bookings porque para algunos casos nos sirviria poder analizar con los datos atipicos y otros sin los datos atipicos.
+Aqui puedes ver más de información del dataset y como se proceso -> [Proceso del dataser](./upc-4-tb1.pdf)
 
 ## ✅ Conclusiones
 1. **Preferencia por el City Hotel:** La mayoría de los clientes prefiere el *City Hotel*, que concentra una mayor cantidad de reservas frente al *Resort Hotel*. Esto puede deberse a su ubicación, accesibilidad o servicios ofrecidos.
