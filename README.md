@@ -1,4 +1,11 @@
 # 1ACC0216-TB1-2025-1
+# Contenido
+
+- [🎯 Objetivo del trabajo](#-objetivo-del-trabajo)
+- [👥 Integrantes del grupo](#-integrantes-del-grupo)
+- [📊 Descripción del dataset](#-descripción-del-dataset)
+- [✅ Conclusiones](#-conclusiones)
+- [🔐 Licencia](#-licencia)
 
 ## 🎯 Objetivo del trabajo
 Realizar un análisis exploratorio de datos (EDA) utilizando RStudio, con el fin de identificar patrones, realizar limpieza de datos y generar visualizaciones a partir del conjunto de datos modificado de reservas hoteleras.
@@ -29,9 +36,15 @@ Se incluyen tres versiones:
 Tenemos dos versiones finales de hotel_bookings porque para algunos casos nos sirviria poder analizar con los datos atipicos y otros sin los datos atipicos.
 
 ## ✅ Conclusiones
-- Se identificaron y trataron registros duplicados, valores faltantes y valores atípicos.
-- Se observaron patrones estacionales en las reservas, con mayor demanda en meses específicos.
-- El análisis permite obtener información valiosa para optimizar la ocupación hotelera y tomar decisiones de marketing basadas en datos.
+1. **Preferencia por el City Hotel:** La mayoría de los clientes prefiere el *City Hotel*, que concentra una mayor cantidad de reservas frente al *Resort Hotel*. Esto puede deberse a su ubicación, accesibilidad o servicios ofrecidos.
+2. **Tendencia de crecimiento:** Entre 2015 y 2017 se observó un aumento sostenido en las reservas, alcanzando su punto máximo en 2016. Aunque 2017 tuvo una ligera baja, los niveles se mantuvieron por encima de 2015, evidenciando una tendencia general positiva.
+3. **Temporadas de demanda:** Agosto es el mes con mayor cantidad de reservas, consolidándose como temporada alta. Por el contrario, enero y diciembre presentan una baja actividad, siendo considerados temporada baja.
+4. **Duración de las estancias:** La mayoría de los huéspedes se alojan entre una y dos noches, especialmente durante la semana, lo cual podría estar relacionado con viajes cortos o estadías laborales.
+5. **Composición de los grupos:** La mayoría de las reservas no incluye niños ni bebés, lo que sugiere un perfil mayoritariamente adulto. Aun así, se recomienda ofrecer algunos servicios para familias.
+6. **Uso de estacionamiento:** La mayoría de las reservas no requiere estacionamiento, lo que podría indicar que muchos huéspedes no usan vehículo propio o que los hoteles se encuentran en zonas céntricas con buena conectividad.
+7. **Cancelaciones:** Agosto también fue el mes con mayor número de cancelaciones, posiblemente por sobreofertas, cambios de planes o estacionalidad. A lo largo del año, el *City Hotel* mantiene un volumen constante y superior de reservas respecto al *Resort Hotel*.
 
 ## 🔐 Licencia
-Este repositorio se encuentra bajo una licencia académica para uso exclusivo en el curso 1ACC0216 - Fundamentos de Data Science.
+Este proyecto está licenciado bajo la **Licencia UPC**, lo que no permite su uso, copia, modificación, distribución y comercialización, con o sin modificacionees.
+
+### 📄 UPC Licensea para uso exclusivo en el curso 1ACC0216 - Fundamentos de Data Science.
